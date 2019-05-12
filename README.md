@@ -1,6 +1,7 @@
 # -ElasticSerach-
 
 利用ElaticSearch來實現簡單對話系統
+
 首先，下載ElasticSearch並開啟後，使用crawler_multiprocess_ptt.py將資料抓進資料庫中
 
 接著，可以使用query_ptt.exe來操作。
