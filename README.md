@@ -6,6 +6,8 @@
 接著，可以使用query_ptt.exe來操作。
 
 使用流程如下：
+
+
 1.
 Open the Elastisearch by using CMD.
 In order to do that, one must open a CMD and execute the file "elasticsearch.bat" under the folder "elasticsearch-6.6.2\bin".
