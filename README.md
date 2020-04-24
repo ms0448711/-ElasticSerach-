@@ -11,7 +11,7 @@
 
 1.
 Open the Elastisearch by using CMD.
-In order to do that, one must open a CMD and execute the file "elasticsearch.bat" under the folder "elasticsearch-6.6.2\bin".
+In order to do that, the user must open a CMD and execute the file "elasticsearch.bat" under the folder "elasticsearch-6.6.2\bin".
 Wait for it to open completely.
 
 2.
